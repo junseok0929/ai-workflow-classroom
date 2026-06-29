@@ -1,7 +1,7 @@
-# junseok0929의 PR 실습 기록
+# kmu-agent-12의 PR 실습 기록
 
 ## 사용한 에이전트
-- agent-12
+- claude
 
 ## 이번 실습에서 한 일
 - 수업용 repo를 fork/clone하고 PR 실습용 브랜치에서 내 기록 파일을 만들었다.
